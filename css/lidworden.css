@@ -1,0 +1,346 @@
+body {
+  background-color: rgba(46, 61, 111, 0.99);
+  font: 300 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.links-2 p {
+  margin-bottom: 1em;
+}
+
+h2 p {
+  margin-bottom: 1em;
+}
+
+.footer {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgba(46, 61, 111, 0.99);
+}
+
+.lid1 {
+  float: left;
+  width: 80%;
+  margin: 50px 0 0 10%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.lid2 {
+  float: left;
+  clear: both;
+  width: 80%;
+  margin: 40px 0 0 10%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 150px;
+  min-height: 110px;
+  margin: 0 auto;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.over {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 150px;
+  min-height: 110px;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.section1 {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 400px;
+  background: url('../images/umtc.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.section6 {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 50px;
+  background-color: rgb(255, 255, 255);
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 150px;
+  min-height: 110px;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 254, 237);
+}
+
+.welcome1 {
+  float: left;
+  min-height: 68px;
+  margin: 25px 0 0 10%;
+  padding: 10px;
+  background-color: rgba(42, 209, 144, 0.8);
+  font-family: Oswald;
+  font-size: 5em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.welcome2 {
+  float: left;
+  clear: both;
+  min-height: 114px;
+  margin: 14px 0 0 10%;
+  padding: 10px;
+  background-color: rgba(42, 79, 209, 0.8);
+  font-family: Oswald;
+  font-size: 5em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.links-1 {
+  float: left;
+  width: 19.3%;
+  min-height: 38px;
+  margin: 40px 0 0 10%;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.links-2 {
+  position: relative;
+  width: 610px;
+  height: 110px;
+  margin: 100px auto 0;
+}
+
+.lid1 strong,
+.lid2 strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 1.25em;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: 0;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.media a,
+.over a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.media a:hover,
+.over a:hover {
+  text-decoration: none;
+}
+
+.media span,
+.over span,
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 800px) {
+  .links .media {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .section1 .welcome1 {
+    min-width: 0;
+  }
+
+  .section6 {
+    padding-bottom: 25px;
+  }
+
+  .section6 .lid1 {
+    margin-top: 25px;
+  }
+
+  .footer .links-2 {
+    width: 80%;
+  }
+}
+
+@media(max-width: 600px) {
+  body {
+    font-size: 1em;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media(max-width: 425px) {
+  .footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .links .over,
+  .links .text {
+    width: 100px;
+  }
+
+  .section1 {
+    height: 300px;
+  }
+
+  .section1 .welcome1 {
+    margin-left: 5%;
+    font-size: 3.75em;
+    -webkit-transform: 1s;
+    -moz-transform: 1s;
+    -o-transform: 1s;
+    -ms-transform: 1s;
+    transform: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    -ms-transition: 1s;
+    transition: 1s;
+  }
+
+  .section1 .welcome2 {
+    margin-left: 5%;
+    font-style: normal;
+    font-size: 3.75em;
+    -webkit-transform: 1s;
+    -moz-transform: 1s;
+    -o-transform: 1s;
+    -ms-transform: 1s;
+    transform: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    -ms-transition: 1s;
+    transition: 1s;
+  }
+
+  .section6 .lid1 {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .section6 .lid2 {
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 5%;
+  }
+
+  .footer .links-1 {
+    margin-top: 0;
+    margin-left: 5%;
+  }
+
+  .footer .links-2 {
+    width: 90%;
+    margin-top: 50px;
+  }
+}

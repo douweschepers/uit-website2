@@ -1,0 +1,1350 @@
+.jaarclubs:hover {
+  background-color: rgb(79, 148, 98);
+  -webkit-transform: 0.5s;
+  -moz-transform: 0.5s;
+  -o-transform: 0.5s;
+  -ms-transform: 0.5s;
+  transform: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+body {
+  background-color: rgba(46, 61, 111, 0.99);
+  font: 300 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.alert {
+  overflow: hidden;
+  padding: 20px;
+  height: auto;
+  width: 100%;
+  color: white;
+  font: 400 1em/1.38 'Open Sans';
+  background-color: #f44336;
+}
+
+.alert strong {
+  font: 700 1em/1.38 'Open Sans';
+}
+
+.alert a {
+  color:#213f92;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+
+links-2 p {
+  margin-bottom: 1em;
+}
+
+h2 p {
+  margin-bottom: 1em;
+}
+
+.bt1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 41;
+  width: 90%;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.bt2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 40;
+  width: 90%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.btback {
+  position: relative;
+  float: left;
+  z-index: 39;
+  width: 100%;
+  height: 400px;
+  background: url('../images/fotoboekfoto.php-4.jpeg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.5;
+}
+
+.com1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 23;
+  width: 90%;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.com2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 22;
+  width: 90%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.comback {
+  position: relative;
+  float: left;
+  z-index: 21;
+  width: 100%;
+  height: 400px;
+  background: url('../images/15110992_1274922775911277_41696803252813083_o(2).jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.5;
+}
+
+.disputen .dpback {
+  z-index: 25;
+  background-image: url('../images/dispuut(3).jpg');
+}
+
+.dp1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 27;
+  width: 90%;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.dp2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 26;
+  width: 90%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.dpback {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(222, 222, 222);
+  opacity: 0.5;
+}
+
+.film {
+  float: left;
+  clear: both;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.filmpje {
+  float: left;
+  margin-left: 10%;
+}
+
+.gen1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 19;
+  width: 90%;
+  min-height: 25px;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.gen2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 18;
+  width: 90%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.bt2:hover,
+.com2:hover,
+.dp2:hover,
+.gen2:hover,
+.gl2:hover,
+.jc2:hover,
+.kl2:hover,
+.td2:hover {
+  color: rgb(255, 255, 255);
+}
+
+.genback {
+  position: relative;
+  float: left;
+  z-index: 17;
+  width: 100%;
+  height: 400px;
+  background: url('../images/genootschappen.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.5;
+}
+
+.betrokken,
+.commissies,
+.disputen,
+.gelijkwaardig,
+.genootschappen,
+.jaarclubs,
+.traditioneel {
+  position: relative;
+  float: left;
+  width: 25%;
+  height: 400px;
+  background-color: rgb(0, 0, 0);
+  -webkit-transform: 1s;
+  -moz-transform: 1s;
+  -o-transform: 1s;
+  -ms-transform: 1s;
+  transform: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.betrokken:hover,
+.commissies:hover,
+.disputen:hover,
+.gelijkwaardig:hover,
+.genootschappen:hover,
+.traditioneel:hover {
+  background-color: rgb(79, 148, 98);
+}
+
+.gl1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 37;
+  width: 90%;
+  min-height: 25px;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.gl2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 36;
+  width: 90%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.glback {
+  position: relative;
+  float: left;
+  z-index: 35;
+  width: 100%;
+  height: 400px;
+  background: url('../images/12030496_970326489720263_5189953808394011870_o.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.5;
+}
+
+.jc1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 31;
+  width: 90%;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.jc2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 30;
+  width: 89.9968592964%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.jcback {
+  position: relative;
+  float: left;
+  z-index: 29;
+  width: 100%;
+  height: 400px;
+  background: url('../images/jaarclub.jpg') rgb(0, 0, 0);
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.5;
+}
+
+.kern {
+  float: left;
+  width: 800px;
+  margin-left: 10%;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.kl1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 49;
+  width: 90%;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.kl2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 48;
+  width: 89.9968592964%;
+  min-height: 141px;
+  font-size: 1em;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.klback {
+  position: relative;
+  float: left;
+  z-index: 47;
+  width: 100%;
+  height: 400px;
+  background: url('../images/fotoboekfoto.php-3.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.5;
+}
+
+.kleinschalig {
+  position: relative;
+  float: left;
+  width: 25%;
+  height: 400px;
+  background-color: rgb(0, 0, 0);
+}
+
+.kleinschalig:hover {
+  background-color: rgb(79, 148, 98);
+  -webkit-transform: 1s;
+  -moz-transform: 1s;
+  -o-transform: 1s;
+  -ms-transform: 1s;
+  transform: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.lid {
+  float: left;
+  margin-left: 10%;
+  padding-top: 50px;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgba(46, 61, 111, 0.99);
+}
+
+.lid1 {
+  float: left;
+  clear: both;
+  width: 80%;
+  margin: 10px 0 0 10%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.lid2 {
+  float: left;
+  clear: both;
+  width: 80%;
+  margin: 40px 0 0 10%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.map {
+  float: left;
+  margin-left: 10%;
+}
+
+.media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 150px;
+  min-height: 110px;
+  margin: 0 auto;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.over {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 150px;
+  min-height: 110px;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.section1 {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 700px;
+  background: url('../images/umtc.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.section2 {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(255, 255, 255);
+}
+
+.section3 {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgba(46, 61, 111, 0.99);
+}
+
+.section4 {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgb(255, 255, 255);
+}
+
+.section5 {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 40px;
+  background-image: url('../images/topography(2).png');
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.section6 {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 50px;
+  background-color: rgb(255, 255, 255);
+}
+
+.section7 {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgba(46, 61, 111, 0.99);
+}
+
+.td1 {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  z-index: 45;
+  width: 90%;
+  font-family: Oswald;
+  font-size: 1.25em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.td2 {
+  position: absolute;
+  top: 45px;
+  left: 5%;
+  z-index: 44;
+  width: 90%;
+  min-height: 141px;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 150px;
+  min-height: 110px;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+.traditioneel .dpback {
+  z-index: 43;
+  background-image: url('../images/2016.jpg');
+}
+
+.verbanden {
+  float: left;
+  clear: both;
+}
+
+.welcome1 {
+  float: left;
+  min-height: 68px;
+  margin: 25px 0 0 10%;
+  padding: 10px;
+  background-color: rgba(42, 209, 144, 0.8);
+  font-family: Oswald;
+  font-size: 5em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.welcome2 {
+  float: left;
+  clear: both;
+  min-height: 114px;
+  margin: 14px 0 0 10%;
+  padding: 10px;
+  background-color: rgba(42, 79, 209, 0.8);
+  font-family: Oswald;
+  font-size: 5em;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+
+.why {
+  float: left;
+  margin-left: 10%;
+}
+
+.filmpje-1 {
+  min-height: 51px;
+  margin-top: 40px;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgba(46, 61, 111, 0.99);
+}
+
+.filmpje-2 {
+  clear: both;
+  width: 80%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  overflow: hidden;
+}
+
+.links-1 {
+  float: left;
+  width: 19.3%;
+  min-height: 38px;
+  margin: 40px 0 0 10%;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.links-2 {
+  position: relative;
+  width: 610px;
+  height: 110px;
+  margin: 100px auto 0;
+}
+
+.map-1 {
+  margin-top: 40px;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgba(46, 61, 111, 0.99);
+}
+
+.map-2 {
+  clear: both;
+  width: 80%;
+  height: 450px;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+.verbanden-2 {
+  width: 800px;
+  margin: 50px 0 0 10%;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.verbanden-1,
+.verbanden-3 {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  margin-top: 15px;
+}
+
+.why-1 {
+  padding-bottom: 2px;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 400;
+  color: rgba(46, 61, 111, 0.99);
+}
+
+.why-2 {
+  clear: both;
+  width: 80%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.lid2 a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 400;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgba(46, 61, 111, 0.99);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.lid1 strong,
+.lid2 strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 1.25em;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: 0;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.media a,
+.over a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.media a:hover,
+.over a:hover {
+  text-decoration: none;
+}
+
+.media span,
+.over span,
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 800px) {
+  .betrokken .btback {
+    position: relative;
+    z-index: 39;
+    height: 275px;
+  }
+
+  .commissies .comback {
+    position: relative;
+    z-index: 21;
+    height: 275px;
+  }
+
+  .disputen .dpback {
+    position: relative;
+    z-index: 25;
+    height: 275px;
+  }
+
+  .gelijkwaardig .glback {
+    position: relative;
+    z-index: 35;
+    height: 275px;
+  }
+
+  .genootschappen .genback {
+    position: relative;
+    z-index: 17;
+    height: 275px;
+  }
+
+  .jaarclubs .jcback {
+    position: relative;
+    z-index: 29;
+    height: 275px;
+  }
+
+  .kleinschalig .klback {
+    position: relative;
+    z-index: 47;
+    height: 275px;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .section1 {
+    height: 500px;
+  }
+
+  .section1 .welcome1 {
+    min-width: 0;
+  }
+
+  .section2 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .section3 .kern,
+  .section3 .verbanden-2 {
+    width: 600px;
+  }
+
+  .section6 .lid {
+    width: 38.599609375%;
+    margin-left: 9.89844%;
+  }
+
+  .section6 .lid1 {
+    margin-top: 0;
+  }
+
+  .traditioneel .dpback {
+    position: relative;
+    z-index: 43;
+    height: 275px;
+  }
+
+  .verbanden .betrokken {
+    position: relative;
+    clear: both;
+    z-index: 42;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .commissies {
+    position: relative;
+    clear: both;
+    z-index: 24;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .disputen {
+    position: relative;
+    z-index: 28;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .gelijkwaardig {
+    position: relative;
+    z-index: 38;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .genootschappen {
+    position: relative;
+    z-index: 20;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .jaarclubs {
+    position: relative;
+    z-index: 32;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .kleinschalig {
+    position: relative;
+    z-index: 50;
+    width: 50%;
+    height: 275px;
+  }
+
+  .verbanden .traditioneel {
+    position: relative;
+    z-index: 46;
+    width: 50%;
+    height: 275px;
+  }
+
+  .section2 .why-2 {
+    margin-top: 15px;
+  }
+
+  .section3 .verbanden-1,
+  .section3 .verbanden-3 {
+    width: 90%;
+    height: 550px;
+    margin-left: 5%;
+  }
+
+  .section5 .map-2 {
+    height: 300px;
+  }
+
+  .section7 .links-2 {
+    width: 80%;
+  }
+}
+
+@media(max-width: 600px) {
+  body {
+    font-size: 1em;
+  }
+
+  .betrokken .btback {
+    position: relative;
+    z-index: 39;
+    height: 300px;
+  }
+
+  .commissies .comback {
+    position: relative;
+    z-index: 21;
+    height: 300px;
+  }
+
+  .disputen .dpback {
+    position: relative;
+    z-index: 25;
+    height: 300px;
+  }
+
+  .gelijkwaardig .glback {
+    position: relative;
+    z-index: 35;
+    height: 300px;
+  }
+
+  .genootschappen .genback {
+    position: relative;
+    z-index: 17;
+    height: 300px;
+  }
+
+  .jaarclubs .jcback {
+    position: relative;
+    z-index: 29;
+    height: 300px;
+  }
+
+  .kleinschalig .klback {
+    position: relative;
+    z-index: 47;
+    height: 300px;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .section3 .kern,
+  .section3 .verbanden-2 {
+    width: 400px;
+  }
+
+  .section6 .lid {
+    width: 38.5989583333%;
+  }
+
+  .traditioneel .dpback {
+    position: relative;
+    z-index: 43;
+    height: 225px;
+  }
+
+  .verbanden .betrokken {
+    position: relative;
+    z-index: 42;
+    height: 300px;
+  }
+
+  .verbanden .commissies {
+    position: relative;
+    z-index: 24;
+    height: 300px;
+  }
+
+  .verbanden .disputen {
+    position: relative;
+    z-index: 28;
+    height: 300px;
+  }
+
+  .verbanden .gelijkwaardig {
+    position: relative;
+    z-index: 38;
+    height: 300px;
+  }
+
+  .verbanden .genootschappen {
+    position: relative;
+    z-index: 20;
+    height: 300px;
+  }
+
+  .verbanden .jaarclubs {
+    position: relative;
+    z-index: 32;
+    height: 300px;
+  }
+
+  .verbanden .kleinschalig {
+    position: relative;
+    z-index: 50;
+    height: 300px;
+  }
+
+  .verbanden .traditioneel {
+    position: relative;
+    z-index: 46;
+    height: 300px;
+  }
+
+  .section3 .verbanden-1,
+  .section3 .verbanden-3 {
+    height: 600px;
+  }
+}
+
+@media(max-width: 425px) {
+  .betrokken .btback {
+    position: relative;
+    z-index: 39;
+    height: 200px;
+  }
+
+  .commissies .comback {
+    position: relative;
+    z-index: 21;
+    height: 200px;
+    margin-left: -0.23693%;
+  }
+
+  .disputen .dpback {
+    position: relative;
+    z-index: 25;
+    height: 200px;
+    margin-left: -0.23693%;
+  }
+
+  .gelijkwaardig .glback {
+    position: relative;
+    z-index: 35;
+    height: 200px;
+  }
+
+  .genootschappen .genback {
+    position: relative;
+    z-index: 17;
+    height: 200px;
+  }
+
+  .jaarclubs .jcback {
+    position: relative;
+    z-index: 29;
+    height: 200px;
+    margin-left: -0.23693%;
+  }
+
+  .kleinschalig .klback {
+    position: relative;
+    z-index: 47;
+    height: 200px;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .links .over,
+  .links .text {
+    width: 100px;
+  }
+
+  .section1 {
+    height: 475px;
+  }
+
+  .section1 .welcome1 {
+    margin-left: 5%;
+    font-size: 3.75em;
+    -webkit-transform: 1s;
+    -moz-transform: 1s;
+    -o-transform: 1s;
+    -ms-transform: 1s;
+    transform: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    -ms-transition: 1s;
+    transition: 1s;
+  }
+
+  .section1 .welcome2 {
+    margin-left: 5%;
+    font-style: normal;
+    font-size: 3.75em;
+    -webkit-transform: 1s;
+    -moz-transform: 1s;
+    -o-transform: 1s;
+    -ms-transform: 1s;
+    transform: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    -ms-transition: 1s;
+    transition: 1s;
+  }
+
+  .section2 .why {
+    margin-left: 5%;
+    color: rgb(51, 51, 51);
+  }
+
+  .section3 .kern,
+  .section3 .verbanden-2 {
+    width: 90%;
+    margin-left: 5%;
+    font-size: 1.75em;
+  }
+
+  .section4 .filmpje {
+    margin-left: 5%;
+  }
+
+  .section5 .map {
+    margin-left: 5%;
+  }
+
+  .section6 .lid {
+    width: auto;
+    margin-left: 5%;
+    padding-top: 0;
+    font-size: 1.75em;
+  }
+
+  .section4 .film,
+  .section6 .lid1 {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .section6 .lid2 {
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 5%;
+  }
+
+  .section3,
+  .section4,
+  .section5,
+  .section6,
+  .section7 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .traditioneel .dpback {
+    position: relative;
+    z-index: 43;
+    height: 200px;
+    background-position: center top;
+  }
+
+  .verbanden .betrokken {
+    position: relative;
+    z-index: 42;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+
+  .verbanden .commissies {
+    position: relative;
+    z-index: 24;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+
+  .verbanden .disputen {
+    position: relative;
+    clear: both;
+    z-index: 28;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+
+  .verbanden .gelijkwaardig {
+    position: relative;
+    clear: both;
+    z-index: 38;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+
+  .verbanden .genootschappen {
+    position: relative;
+    clear: both;
+    z-index: 20;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+
+  .verbanden .jaarclubs {
+    position: relative;
+    z-index: 32;
+    width: 100%;
+    height: 200px;
+  }
+
+  .verbanden .kleinschalig {
+    position: relative;
+    z-index: 50;
+    width: 100%;
+    height: 200px;
+  }
+
+  .verbanden .traditioneel {
+    position: relative;
+    clear: both;
+    z-index: 46;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+
+  .section2 .why-1 {
+    font-size: 1.75em;
+  }
+
+  .section2 .why-2 {
+    width: 90%;
+    min-height: 0;
+  }
+
+  .section3 .verbanden-1,
+  .section3 .verbanden-3 {
+    height: 830px;
+  }
+
+  .section4 .filmpje-1 {
+    min-height: 0;
+    margin-top: 0;
+    font-size: 1.75em;
+  }
+
+  .section4 .filmpje-2 {
+    width: 90%;
+    height: auto;
+    margin-top: 10px;
+  }
+
+  .section5 .map-1 {
+    margin-top: 0;
+    font-size: 1.75em;
+  }
+
+  .section5 .map-2 {
+    width: 90%;
+    height: 240px;
+  }
+
+  .section7 .links-1 {
+    margin-top: 0;
+    margin-left: 5%;
+  }
+
+  .section7 .links-2 {
+    width: 90%;
+    margin-top: 50px;
+  }
+}

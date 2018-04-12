@@ -1,0 +1,1950 @@
+body {
+  background-color: rgba(46, 61, 111, 0.99);
+  font: 400 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.links-2 p,
+h2 p {
+  margin-bottom: 1em;
+}
+
+.aug14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 74;
+  width: 95%;
+  min-height: 112px;
+  font-size: 5.625em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug141 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  right: 0;
+  z-index: 73;
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 65;
+  width: 95%;
+  min-height: 112px;
+  font-size: 5.625em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug151 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  right: 0;
+  z-index: 64;
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 44;
+  width: 95%;
+  min-height: 112px;
+  font-size: 5.625em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug161 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  right: 0;
+  z-index: 43;
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 95%;
+  min-height: 112px;
+  font-size: 5.625em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.aug171 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.celil {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 7;
+  width: 21.0999999999%;
+  height: 200px;
+  margin: 20px 0 0 25%;
+  background-image: url('../images/celil.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.container {
+  float: left;
+  clear: both;
+  margin-left: 10%;
+}
+
+.datumdins,
+.datumdmaan,
+.datumdon,
+.datumwoen {
+  position: relative;
+  float: left;
+  width: 150px;
+  height: 150px;
+  border: 5px solid rgb(172, 212, 50);
+  border-radius: 5px;
+}
+
+.dinsdag .maandag {
+  position: relative;
+  float: right;
+  z-index: 67;
+  font-size: 3.125em;
+  color: rgb(172, 212, 50);
+}
+
+.donderdag .donderdag {
+  position: relative;
+  float: right;
+  z-index: 25;
+  font-size: 3.125em;
+  color: rgb(172, 212, 50);
+}
+
+.food {
+  float: right;
+  clear: both;
+  width: 76.7320261437%;
+  margin-top: 35px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.fullmoon {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 72;
+  width: 76.7320261437%;
+  margin-top: -70px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.headcult {
+  position: relative;
+  float: left;
+  z-index: 37;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headfood {
+  position: relative;
+  float: left;
+  z-index: 33;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headinfo {
+  position: relative;
+  float: left;
+  z-index: 16;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headmex {
+  position: relative;
+  float: left;
+  z-index: 29;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headmoon {
+  position: relative;
+  float: left;
+  z-index: 71;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headneude1 {
+  position: relative;
+  float: left;
+  z-index: 41;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headneude2 {
+  position: relative;
+  float: left;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headsp {
+  position: relative;
+  float: left;
+  z-index: 54;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headtoga {
+  position: relative;
+  float: left;
+  z-index: 12;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headusa {
+  position: relative;
+  float: left;
+  z-index: 50;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headvk {
+  position: relative;
+  float: left;
+  z-index: 58;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.headvp {
+  position: relative;
+  float: left;
+  z-index: 62;
+  margin: 10px 0 0 10px;
+  font-family: Oswald;
+  font-size: 1.5em;
+  color: rgb(51, 51, 51);
+}
+
+.kinepolis {
+  position: relative;
+  float: right;
+  z-index: 6;
+  width: 21.0999999999%;
+  height: 200px;
+  margin: 20px 25% 0 0;
+  background-image: url('../images/Kinepolis_logo-01.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.maandag .maandag {
+  position: relative;
+  float: right;
+  z-index: 76;
+  font-size: 3.125em;
+  color: rgb(172, 212, 50);
+}
+
+.media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 150px;
+  min-height: 110px;
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.neude1 {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 42;
+  width: 76.7320261437%;
+  margin-top: -70px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.neude2 {
+  position: relative;
+  float: right;
+  clear: both;
+  width: 76.7320261437%;
+  margin-top: -70px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.over {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 150px;
+  min-height: 110px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.programma {
+  float: left;
+  clear: both;
+  margin: 10px 0 0 10%;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.section1 {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 400px;
+  background: url('../images/Themalogo%20zwart.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 90% 50%;
+}
+
+.section2 {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(255, 255, 255);
+}
+
+.section2 .why {
+  margin-left: 9.99375%;
+}
+
+.section3 {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 50px;
+  background-color: rgba(46, 61, 111, 0.99);
+}
+
+.section3 .why {
+  margin: 16px 0 0 10%;
+  padding-bottom: 2px;
+  border-bottom: 5px solid rgb(172, 212, 50);
+  font-family: Oswald;
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+}
+
+.section7 {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgba(46, 61, 111, 0.99);
+}
+
+.sponsors {
+  float: left;
+}
+
+.sponsors .sponsors {
+  margin: 22px 0 0 10%;
+  padding-bottom: 2px;
+  border-bottom: 5px solid rgb(172, 212, 50);
+  font-family: Oswald;
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 150px;
+  min-height: 110px;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+.textmex {
+  float: left;
+  clear: both;
+  width: 96.5916611515%;
+  margin: 5px 0 0 1.69781%;
+  font-family: OpenSans;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.textcult,
+.textfood,
+.textinfo,
+.textmoon,
+.textneude1,
+.textneude2,
+.textsp,
+.texttoga,
+.textusa,
+.textvk,
+.textvp {
+  float: left;
+  clear: both;
+  width: 96.5928449744%;
+  margin: 5px 0 0 1.7029%;
+  font-family: OpenSans;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.tijdcult {
+  position: relative;
+  float: right;
+  z-index: 35;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdfood {
+  position: relative;
+  float: right;
+  z-index: 31;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdinfo {
+  position: relative;
+  float: right;
+  z-index: 14;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdmex {
+  position: relative;
+  float: right;
+  z-index: 27;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdmoon {
+  position: relative;
+  float: right;
+  z-index: 69;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdneude1 {
+  position: relative;
+  float: right;
+  z-index: 39;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdneude2 {
+  position: relative;
+  float: right;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdsp {
+  position: relative;
+  float: right;
+  z-index: 52;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdtoga {
+  position: relative;
+  float: right;
+  z-index: 10;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdvk {
+  position: relative;
+  float: right;
+  z-index: 57;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.tijdvp {
+  position: relative;
+  float: right;
+  z-index: 60;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.timeusa {
+  position: relative;
+  float: right;
+  z-index: 48;
+  margin: 10px 10px 0 0;
+  font-family: Oswald;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.cult,
+.info,
+.mex,
+.sp,
+.toga,
+.usa,
+.vk {
+  float: right;
+  clear: both;
+  width: 76.7320261437%;
+  margin-top: 20px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.vp {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 63;
+  width: 76.7320261437%;
+  margin-top: -70px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.vrijdag {
+  position: relative;
+  float: right;
+  z-index: 87;
+  font-size: 3.125em;
+  color: rgb(172, 212, 50);
+}
+
+.welcome1 {
+  float: left;
+  min-height: 68px;
+  margin: 25px 0 0 10%;
+  padding: 10px;
+  background-color: #acd432;
+  font-family: Oswald;
+  font-size: 4.688em;
+  color: rgb(255, 255, 255);
+}
+
+.welcome2 {
+  float: left;
+  clear: both;
+  margin: 14px 0 0 10%;
+  padding: 10px;
+  background-color: #213f92;
+  font-family: Oswald;
+  font-size: 2.5em;
+  font-weight: 300;
+  color: rgb(255, 255, 255);
+}
+
+.why {
+  float: left;
+}
+
+.dinsdag,
+.donderdag-1,
+.donderdag-3,
+.woensdag {
+  float: left;
+  clear: both;
+  width: 80%;
+  margin: 50px 0 0 10%;
+}
+
+.woensdag .maandag {
+  position: relative;
+  float: right;
+  z-index: 46;
+  font-size: 3.125em;
+  color: rgb(172, 212, 50);
+}
+
+._button {
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 200px;
+  height: 43px;
+  border-radius: 3px;
+  background-color: rgb(172, 212, 50);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._container {
+  position: relative;
+  width: 80%;
+  height: 50px;
+  margin-top: 15px;
+}
+
+._element {
+  width: 80.4007474756%;
+  height: 450px;
+  margin-top: 25px;
+  background: url('../images/umtc.jpg') rgb(42, 209, 144);
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.aug17-1 {
+  z-index: 23;
+}
+
+.aug17-2 {
+  z-index: 85;
+}
+
+.aug171-1 {
+  z-index: 22;
+}
+
+.aug171-2 {
+  z-index: 84;
+}
+
+.headneude2-1 {
+  z-index: 20;
+}
+
+.headneude2-2 {
+  z-index: 82;
+}
+
+.links-1 {
+  float: left;
+  width: 19.3%;
+  min-height: 38px;
+  margin-left: 10%;
+  font-family: Oswald;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.links-2 {
+  position: relative;
+  width: 610px;
+  height: 110px;
+  margin: 60px auto 0;
+}
+
+.maandag-1 {
+  float: left;
+  clear: both;
+  width: 80%;
+  margin: 24px 0 0 10%;
+}
+
+.neude2-1 {
+  z-index: 21;
+}
+
+.neude2-2 {
+  z-index: 83;
+}
+
+.sponsors-1 {
+  clear: both;
+  width: 100%;
+  height: 320px;
+}
+
+.tijdneude2-1 {
+  z-index: 18;
+}
+
+.tijdneude2-2 {
+  z-index: 80;
+}
+
+.why-1 {
+  padding-bottom: 2px;
+  border-bottom: 5px solid rgb(172, 212, 50);
+  font-family: Oswald;
+  font-size: 2em;
+  color: rgba(46, 61, 111, 0.99);
+}
+
+.why-2 {
+  clear: both;
+  width: 80%;
+  margin-top: 15px;
+  font-size: 1em;
+  font-weight: 300;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-1 {
+  right: 0;
+  z-index: 95;
+}
+
+.container ._button-2 {
+  left: 0;
+  z-index: 94;
+}
+
+.container ._button-3 {
+  left: 0;
+  right: 0;
+  z-index: 93;
+  margin: 0 auto;
+}
+
+.container ._button-2:hover,
+.container ._button-3:hover {
+  background-color: rgb(82, 220, 166);
+}
+
+.media a,
+.over a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.media a:hover,
+.over a:hover {
+  text-decoration: none;
+}
+
+.media span,
+.over span,
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.textcult span,
+.textfood span,
+.textinfo span,
+.textmex span,
+.textsp span,
+.texttoga span,
+.textusa span,
+.textvk span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: italic;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.why a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 600;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(172, 212, 50);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.why span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 600;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(33, 63, 146);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 800px) {
+  .cult .headcult {
+    position: relative;
+    z-index: 37;
+  }
+
+  .cult .tijdcult {
+    position: relative;
+    z-index: 35;
+  }
+
+  .datumdins .aug151,
+  .datumdmaan .aug141,
+  .datumdon .aug171,
+  .datumwoen .aug161 {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .dinsdag .maandag {
+    position: relative;
+    z-index: 67;
+  }
+
+  .dinsdag .vp {
+    position: relative;
+    z-index: 63;
+    width: 70.4248366013%;
+  }
+
+  .donderdag .donderdag {
+    position: relative;
+    z-index: 25;
+  }
+
+  .donderdag .neude2 {
+    position: relative;
+    width: 70.4248366013%;
+  }
+
+  .dinsdag .sp,
+  .dinsdag .usa,
+  .dinsdag .vk,
+  .donderdag .info,
+  .donderdag .toga,
+  .woensdag .cult,
+  .woensdag .mex {
+    width: 70.4248366013%;
+  }
+
+  .donderdag .vrijdag {
+    position: relative;
+    z-index: 87;
+  }
+
+  .food .headfood {
+    position: relative;
+    z-index: 33;
+  }
+
+  .food .tijdfood {
+    position: relative;
+    z-index: 31;
+  }
+
+  .fullmoon .headmoon {
+    position: relative;
+    z-index: 71;
+  }
+
+  .fullmoon .tijdmoon {
+    position: relative;
+    z-index: 69;
+  }
+
+  .info .headinfo {
+    position: relative;
+    z-index: 16;
+  }
+
+  .info .tijdinfo {
+    position: relative;
+    z-index: 14;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    font-style: normal;
+  }
+
+  .maandag .fullmoon {
+    position: relative;
+    z-index: 72;
+    width: 70.4248366013%;
+  }
+
+  .maandag .maandag {
+    position: relative;
+    z-index: 76;
+  }
+
+  .mex .headmex {
+    position: relative;
+    z-index: 29;
+    font-size: 1.25em;
+  }
+
+  .mex .tijdmex {
+    position: relative;
+    z-index: 27;
+  }
+
+  .neude1 .headneude1 {
+    position: relative;
+    z-index: 41;
+  }
+
+  .neude1 .tijdneude1 {
+    position: relative;
+    z-index: 39;
+  }
+
+  .cult .textcult,
+  .food .textfood,
+  .fullmoon .textmoon,
+  .info .textinfo,
+  .mex .textmex,
+  .neude1 .textneude1,
+  .neude2 .textneude2,
+  .sp .textsp,
+  .toga .texttoga,
+  .usa .textusa,
+  .vk .textvk,
+  .vp .textvp {
+    width: 100%;
+    margin-left: 0;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .neude2 .headneude2,
+  .neude2 .tijdneude2 {
+    position: relative;
+  }
+
+  .section1 {
+    height: 300px;
+  }
+
+  .section1 .welcome1 {
+    min-width: 0;
+    font-size: 3.75em;
+  }
+
+  .section1 .welcome2 {
+    font-size: 1.875em;
+  }
+
+  .section2 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .section3 .why {
+    margin-top: 22px;
+  }
+
+  .sp .headsp {
+    position: relative;
+    z-index: 54;
+  }
+
+  .sp .tijdsp {
+    position: relative;
+    z-index: 52;
+  }
+
+  .sponsors .celil {
+    position: relative;
+    z-index: 7;
+    width: 21.099609375%;
+  }
+
+  .sponsors .kinepolis {
+    position: relative;
+    z-index: 6;
+    width: 21.099609375%;
+  }
+
+  .section7 .links-2,
+  .sponsors .sponsors {
+    width: 80%;
+  }
+
+  .toga .headtoga {
+    position: relative;
+    z-index: 12;
+  }
+
+  .toga .tijdtoga {
+    position: relative;
+    z-index: 10;
+  }
+
+  .usa .headusa {
+    position: relative;
+    z-index: 50;
+    font-size: 1.25em;
+  }
+
+  .usa .timeusa {
+    position: relative;
+    z-index: 48;
+  }
+
+  .vk .headvk {
+    position: relative;
+    z-index: 58;
+  }
+
+  .vk .tijdvk {
+    position: relative;
+    z-index: 57;
+  }
+
+  .vp .headvp {
+    position: relative;
+    z-index: 62;
+  }
+
+  .vp .tijdvp {
+    position: relative;
+    z-index: 60;
+  }
+
+  .dinsdag .datumdins,
+  .donderdag .datumdon-2,
+  .maandag .datumdmaan,
+  .woensdag .datumwoen {
+    margin-top: 6px;
+  }
+
+  .woensdag .food {
+    width: 70.4248366013%;
+    margin-top: 20px;
+  }
+
+  .woensdag .maandag {
+    position: relative;
+    z-index: 46;
+  }
+
+  .woensdag .neude1 {
+    position: relative;
+    z-index: 42;
+    width: 70.4248366013%;
+  }
+
+  .section2 ._container,
+  .section2 .why {
+    margin-left: 9.99219%;
+  }
+
+  .section2 ._element {
+    width: 80.3988536882%;
+    margin-left: 9.89258%;
+    background-size: cover;
+  }
+
+  .donderdag .neude2-1 {
+    z-index: 21;
+  }
+
+  .donderdag .neude2-2 {
+    z-index: 83;
+  }
+
+  .neude2 .headneude2-1 {
+    z-index: 20;
+  }
+
+  .neude2 .headneude2-2 {
+    z-index: 82;
+  }
+
+  .neude2 .tijdneude2-1 {
+    z-index: 18;
+  }
+
+  .neude2 .tijdneude2-2 {
+    z-index: 80;
+  }
+
+  .container ._button-1 {
+    width: 24.3743252527%;
+  }
+
+  .container ._button-2 {
+    width: 24.38%;
+  }
+
+  .container ._button-3 {
+    left: 0;
+    right: 0;
+    width: 24.375%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media(max-width: 600px) {
+  body {
+    font-size: 1em;
+  }
+
+  .cult .headcult {
+    position: relative;
+    z-index: 37;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .cult .tijdcult {
+    position: relative;
+    z-index: 35;
+  }
+
+  .dinsdag .maandag {
+    position: relative;
+    z-index: 67;
+  }
+
+  .dinsdag .vp {
+    position: relative;
+    z-index: 63;
+    width: 60%;
+  }
+
+  .donderdag .donderdag {
+    position: relative;
+    z-index: 25;
+  }
+
+  .donderdag .neude2 {
+    position: relative;
+    width: 60%;
+  }
+
+  .dinsdag .sp,
+  .dinsdag .usa,
+  .dinsdag .vk,
+  .donderdag .info,
+  .donderdag .toga,
+  .woensdag .cult,
+  .woensdag .food,
+  .woensdag .mex {
+    width: 60%;
+  }
+
+  .donderdag .vrijdag {
+    position: relative;
+    z-index: 87;
+  }
+
+  .food .headfood {
+    position: relative;
+    z-index: 33;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .food .tijdfood {
+    position: relative;
+    z-index: 31;
+  }
+
+  .fullmoon .headmoon {
+    position: relative;
+    z-index: 71;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .fullmoon .tijdmoon {
+    position: relative;
+    z-index: 69;
+  }
+
+  .info .headinfo {
+    position: relative;
+    z-index: 16;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .info .tijdinfo {
+    position: relative;
+    z-index: 14;
+  }
+
+  .datumdins .aug151,
+  .datumdmaan .aug141,
+  .datumdon .aug171,
+  .datumwoen .aug161,
+  .links .media {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .maandag .fullmoon {
+    position: relative;
+    z-index: 72;
+    width: 60%;
+  }
+
+  .maandag .maandag {
+    position: relative;
+    z-index: 76;
+  }
+
+  .mex .headmex {
+    position: relative;
+    z-index: 29;
+    margin-left: 9px;
+  }
+
+  .mex .tijdmex {
+    position: relative;
+    z-index: 27;
+  }
+
+  .neude1 .headneude1 {
+    position: relative;
+    z-index: 41;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .neude1 .tijdneude1 {
+    position: relative;
+    z-index: 39;
+  }
+
+  .neude2 .headneude2 {
+    position: relative;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .neude2 .tijdneude2 {
+    position: relative;
+  }
+
+  .sp .headsp {
+    position: relative;
+    z-index: 54;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .sp .tijdsp {
+    position: relative;
+    z-index: 52;
+  }
+
+  .sponsors .celil {
+    position: relative;
+    z-index: 7;
+    width: 21.0989583333%;
+    margin-top: 0;
+  }
+
+  .sponsors .kinepolis {
+    position: relative;
+    z-index: 6;
+    width: 21.0989583333%;
+    margin-top: 0;
+  }
+
+  .toga .headtoga {
+    position: relative;
+    z-index: 12;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .toga .tijdtoga {
+    position: relative;
+    z-index: 10;
+  }
+
+  .usa .headusa {
+    position: relative;
+    z-index: 50;
+    margin-left: 9px;
+  }
+
+  .usa .timeusa {
+    position: relative;
+    z-index: 48;
+  }
+
+  .vk .headvk {
+    position: relative;
+    z-index: 58;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .vk .tijdvk {
+    position: relative;
+    z-index: 57;
+  }
+
+  .vp .headvp {
+    position: relative;
+    z-index: 62;
+    margin-left: 9px;
+    font-size: 1.25em;
+  }
+
+  .vp .tijdvp {
+    position: relative;
+    z-index: 60;
+  }
+
+  .woensdag .maandag {
+    position: relative;
+    z-index: 46;
+  }
+
+  .woensdag .neude1 {
+    position: relative;
+    z-index: 42;
+    width: 60%;
+  }
+
+  .section2 ._element {
+    width: 80.3999057813%;
+    height: 300px;
+    margin-top: 18px;
+    margin-left: 9.89063%;
+  }
+
+  .donderdag .neude2-1 {
+    z-index: 21;
+  }
+
+  .donderdag .neude2-2 {
+    z-index: 83;
+  }
+
+  .neude2 .headneude2-1 {
+    z-index: 20;
+  }
+
+  .neude2 .headneude2-2 {
+    z-index: 82;
+  }
+
+  .neude2 .tijdneude2-1 {
+    z-index: 18;
+  }
+
+  .neude2 .tijdneude2-2 {
+    z-index: 80;
+  }
+
+  .section3 .maandag-1 {
+    margin-top: 18px;
+  }
+
+  .container ._button-1 {
+    width: 24.3726895017%;
+  }
+
+  .container ._button-3 {
+    left: 0;
+    right: 0;
+    width: 24.3726895017%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media(max-width: 425px) {
+  .cult .headcult {
+    position: relative;
+    z-index: 37;
+    margin-left: 10px;
+  }
+
+  .cult .tijdcult {
+    position: relative;
+    z-index: 35;
+  }
+
+  .datumdins .aug15,
+  .datumdmaan .aug14,
+  .datumdon .aug17,
+  .datumwoen .aug16 {
+    min-height: 0;
+    font-size: 2.5em;
+  }
+
+  .datumdins .aug151,
+  .datumdmaan .aug141,
+  .datumdon .aug171,
+  .datumwoen .aug161 {
+    top: 42px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .dinsdag .maandag {
+    position: relative;
+    z-index: 67;
+    font-size: 2.5em;
+  }
+
+  .dinsdag .vp {
+    position: relative;
+    z-index: 63;
+    width: 70%;
+    margin-top: 0;
+  }
+
+  .donderdag .datumdon {
+    width: 75px;
+    height: 75px;
+  }
+
+  .donderdag .donderdag {
+    position: relative;
+    z-index: 25;
+    font-size: 2.5em;
+  }
+
+  .donderdag .neude2 {
+    position: relative;
+    width: 70%;
+    margin-top: 0;
+  }
+
+  .dinsdag .sp,
+  .dinsdag .usa,
+  .dinsdag .vk,
+  .donderdag .info,
+  .donderdag .toga,
+  .woensdag .cult,
+  .woensdag .food,
+  .woensdag .mex {
+    width: 70%;
+  }
+
+  .donderdag .vrijdag {
+    position: relative;
+    z-index: 87;
+    font-size: 2.5em;
+  }
+
+  .food .headfood {
+    position: relative;
+    z-index: 33;
+    margin-left: 10px;
+  }
+
+  .food .tijdfood {
+    position: relative;
+    z-index: 31;
+  }
+
+  .fullmoon .headmoon {
+    position: relative;
+    z-index: 71;
+    margin-left: 10px;
+  }
+
+  .fullmoon .tijdmoon {
+    position: relative;
+    z-index: 69;
+  }
+
+  .info .headinfo {
+    position: relative;
+    z-index: 16;
+    margin-left: 10px;
+  }
+
+  .info .tijdinfo {
+    position: relative;
+    z-index: 14;
+  }
+
+  .links .media {
+    left: 0;
+    right: 0;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .links .over,
+  .links .text {
+    width: 100px;
+  }
+
+  .maandag .fullmoon {
+    position: relative;
+    z-index: 72;
+    width: 70%;
+    margin-top: 0;
+  }
+
+  .maandag .maandag {
+    position: relative;
+    z-index: 76;
+    font-size: 2.5em;
+  }
+
+  .mex .headmex {
+    position: relative;
+    z-index: 29;
+    margin-left: 10px;
+    font-size: 1.125em;
+  }
+
+  .mex .tijdmex {
+    position: relative;
+    z-index: 27;
+  }
+
+  .neude1 .headneude1 {
+    position: relative;
+    z-index: 41;
+    margin-left: 10px;
+  }
+
+  .neude1 .tijdneude1 {
+    position: relative;
+    z-index: 39;
+  }
+
+  .neude2 .headneude2 {
+    position: relative;
+    margin-left: 10px;
+  }
+
+  .neude2 .tijdneude2 {
+    position: relative;
+  }
+
+  .section1 {
+    height: 525px;
+    background-position: 90% 100%;
+  }
+
+  .section1 .welcome1 {
+    margin-left: 5%;
+    font-size: 2.5em;
+    -webkit-transform: 1s;
+    -moz-transform: 1s;
+    -o-transform: 1s;
+    -ms-transform: 1s;
+    transform: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    -ms-transition: 1s;
+    transition: 1s;
+  }
+
+  .section1 .welcome2 {
+    margin-left: 5%;
+    font-size: 1.25em;
+    -webkit-transform: 1s;
+    -moz-transform: 1s;
+    -o-transform: 1s;
+    -ms-transform: 1s;
+    transform: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    -ms-transition: 1s;
+    transition: 1s;
+  }
+
+  .section2 .why {
+    margin-left: 4.99265%;
+    color: rgb(51, 51, 51);
+  }
+
+  .section2 .container,
+  .section3 .dinsdag,
+  .section3 .donderdag-1,
+  .section3 .donderdag-3,
+  .section3 .maandag-1 {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .section3 .programma,
+  .section7 .links-1 {
+    margin-left: 5%;
+  }
+
+  .section3 .why {
+    margin-top: 12px;
+    margin-left: 5%;
+    font-size: 1.75em;
+  }
+
+  .section3 .woensdag {
+    width: 90%;
+    margin-left: 5.00368%;
+  }
+
+  .section7 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .sp .headsp {
+    position: relative;
+    z-index: 54;
+    margin-left: 10px;
+  }
+
+  .sp .tijdsp {
+    position: relative;
+    z-index: 52;
+  }
+
+  .sponsors .celil {
+    position: relative;
+    z-index: 7;
+    width: 21.0992647058%;
+  }
+
+  .sponsors .kinepolis {
+    position: relative;
+    z-index: 6;
+    width: 21.0992647058%;
+  }
+
+  .sponsors .sponsors {
+    width: 90%;
+    margin-left: 5%;
+    font-size: 1.75em;
+  }
+
+  .toga .headtoga {
+    position: relative;
+    z-index: 12;
+    margin-left: 10px;
+  }
+
+  .toga .tijdtoga {
+    position: relative;
+    z-index: 10;
+  }
+
+  .usa .headusa {
+    position: relative;
+    z-index: 50;
+    margin-left: 10px;
+    font-size: 1.125em;
+  }
+
+  .usa .timeusa {
+    position: relative;
+    z-index: 48;
+  }
+
+  .vk .headvk {
+    position: relative;
+    z-index: 58;
+    margin-left: 10px;
+  }
+
+  .vk .tijdvk {
+    position: relative;
+    z-index: 57;
+  }
+
+  .vp .headvp {
+    position: relative;
+    z-index: 62;
+    margin-left: 10px;
+  }
+
+  .vp .tijdvp {
+    position: relative;
+    z-index: 60;
+  }
+
+  .dinsdag .datumdins,
+  .maandag .datumdmaan,
+  .woensdag .datumwoen {
+    width: 75px;
+    height: 75px;
+    margin-top: 0;
+  }
+
+  .woensdag .maandag {
+    position: relative;
+    z-index: 46;
+    font-size: 2.5em;
+  }
+
+  .woensdag .neude1 {
+    position: relative;
+    z-index: 42;
+    width: 70%;
+    margin-top: 0;
+  }
+
+  .container ._button {
+    width: 100px;
+  }
+
+  .donderdag .datumdon-2 {
+    margin-top: 0;
+  }
+
+  .donderdag .neude2-1 {
+    z-index: 21;
+  }
+
+  .donderdag .neude2-2 {
+    z-index: 83;
+  }
+
+  .neude2 .headneude2-1 {
+    z-index: 20;
+  }
+
+  .neude2 .headneude2-2 {
+    z-index: 82;
+  }
+
+  .neude2 .tijdneude2-1 {
+    z-index: 18;
+  }
+
+  .neude2 .tijdneude2-2 {
+    z-index: 80;
+  }
+
+  .section2 .why-1 {
+    font-size: 1.75em;
+  }
+
+  .section2 .why-2 {
+    width: 90%;
+    min-height: 0;
+  }
+
+  .section7 .links-2 {
+    width: 90%;
+    margin-top: 50px;
+  }
+
+  .container ._button-3 {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
